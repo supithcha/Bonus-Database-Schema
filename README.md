@@ -1,4 +1,3 @@
-<img width="599" height="94" alt="Screenshot 2569-09-14 at 01 28 58" src="https://github.com/user-attachments/assets/b9842923-4d6d-4eca-bb55-dc89fbb64558" />
 # Bonus-Database-Schema
 Prepared by Supithcha Jongphoemwatthanaphon in partial fulfillment of the requirements for the Project Manager (Software) interview.
 
