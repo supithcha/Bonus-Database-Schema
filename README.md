@@ -1,3 +1,4 @@
+<img width="599" height="94" alt="Screenshot 2569-09-14 at 01 28 58" src="https://github.com/user-attachments/assets/b9842923-4d6d-4eca-bb55-dc89fbb64558" />
 # Bonus-Database-Schema
 Prepared by Supithcha Jongphoemwatthanaphon in partial fulfillment of the requirements for the Project Manager (Software) interview.
 
@@ -17,7 +18,7 @@ A.ให้เขียน SQL Query ในแต่ละข้อดังต�
 <img height="120" alt="Screenshot 2569-09-14 at 01 21 28" src="https://github.com/user-attachments/assets/0d1c43b3-1e4a-4064-8077-ffbdc3bcbfea" />
 
 - A4 แสดงแผนกที่มีการจ่ายโบนัสเยอะที่สุด
-<img height="100" alt="Screenshot 2569-09-14 at 01 23 38" src="https://github.com/user-attachments/assets/51650ccf-5a3d-40a5-a39f-c05465d80684" />
+<img height="100" alt="Screenshot 2569-09-14 at 01 29 20" src="https://github.com/user-attachments/assets/e497ad49-a567-4e4f-9149-6c691c87aa0d" />
 
 - A5 แสดงชื่อพนักงานที่เงินเดือนรวมกับโบนัสเยอะที่สุดในแต่ละแผนก
 <img height="120" alt="Screenshot 2569-09-14 at 01 22 33" src="https://github.com/user-attachments/assets/1ddc74ec-9670-49d0-9574-47eded09ee8b" />
